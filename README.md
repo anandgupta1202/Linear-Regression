@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="LinearReg" />
+  <img src="./.github/images/logo/linear-reg.png" alt="LinearReg" />
 
   &#xa0;
 
