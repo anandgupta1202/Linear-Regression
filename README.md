@@ -9,19 +9,19 @@
 <h1 align="center">LinearReg</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anandgupta1202/linearreg?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/anandgupta1202/Linear-Regression?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anandgupta1202/linearreg?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/anandgupta1202/Linear-Regression?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anandgupta1202/linearreg?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anandgupta1202/Linear-Regression?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/anandgupta1202/linearreg?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/anandgupta1202/Linear-Regression?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/anandgupta1202/linearreg?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/anandgupta1202/Linear-Regression?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/anandgupta1202/linearreg?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/anandgupta1202/Linear-Regression?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/anandgupta1202/linearreg?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/anandgupta1202/Linear-Regression?color=56BEB8" /> -->
 </p>
 
 Status
@@ -72,7 +72,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/anandgupta1202/linearreg
+$ git clone https://github.com/anandgupta1202/Linear-Regression
 
 # Access
 $ cd linearreg
