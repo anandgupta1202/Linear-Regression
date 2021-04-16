@@ -40,7 +40,9 @@ def plot_data(x, y, LR):
 if __name__ == "__main__":
     data = generate_data_line(num=5)
     x, y = np.array(list(zip(*data)))
-    # print(type(x))
+    # x, y = zip(*data)
+    # print(x)
+    # print(y)
 
     LR = LinearReg(m=np.mean(x), c=np.mean(y))
     LR.train(x, y)
